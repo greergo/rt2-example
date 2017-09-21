@@ -4,3 +4,5 @@ Hello world!
 
 >>>>>>> greer
 Goodbye world!
+
+everything is awful, except for cats.
